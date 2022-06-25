@@ -1,0 +1,23 @@
+body{
+    
+    height: 600px;
+    background-image: url("fondo2.webp");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+}
+
+div{
+    text-align:center;
+    color: #000203;
+}
+
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    color: #218a8a;
+}
+
+
